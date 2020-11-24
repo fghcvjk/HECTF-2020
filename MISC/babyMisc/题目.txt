@@ -1,0 +1,6 @@
+本题赏金：8元
+这是一个非常简单的misc
+你能发现其中的秘密吗?
+文件hex尾部有编码后的flag的后两位
+flag格式:"HECTF{}"
+备用链接：https://share.weiyun.com/gL0ZiSOH 密码：enb695
